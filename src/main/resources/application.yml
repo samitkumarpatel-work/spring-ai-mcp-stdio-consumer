@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: spring-ai-mcp-file-explore-client
+  ai:
+    mcp:
+      client:
+        stdio:
+          servers-configuration: classpath:mongodb-mcp-server.json
+
+    ollama:
+      chat:
+        model: llama3.1
