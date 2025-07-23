@@ -5,7 +5,7 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "/Users/spa349/workspace/spring-ai-mcp-file-explore-client"
+        "/Users/XXXX/workspace/spring-ai-mcp-file-explore-client"
       ]
     }
   }
